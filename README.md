@@ -1,4 +1,8 @@
-### [Live Site](https://covid19tracker-jassim.netlify.app/)
+![](https://i.imgur.com/waxVImv.png)
+
+### [Live Demo](https://covid19tracker-jassim.netlify.app/)
+
+![](https://i.imgur.com/waxVImv.png)
 
 # Getting Started with Create React App
 
